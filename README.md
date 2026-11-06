@@ -1,6 +1,6 @@
 测试
-bing.com
-www.bilibili.com
-www.doyin.com
-baidu.com
-furry31415936.ccwu.cc
+https://bing.com
+https://www.bilibili.com
+https://www.doyin.com
+https://baidu.com
+https://furry31415936.ccwu.cc
