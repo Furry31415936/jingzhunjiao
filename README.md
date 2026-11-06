@@ -4,3 +4,4 @@ https://www.bilibili.com
 https://www.doyin.com
 https://baidu.com
 https://furry31415936.ccwu.cc
+https://9a43a.com
